@@ -1,6 +1,3 @@
-# dynex-0xdnx-dhip-richlist-monitor
-Real-time blockchain analytics dashboard for tracking Dynex DHIP v2 (0xDNX) token holder distribution
-
 # Dynex 0xDNX Richlist Monitor
 
 Real-time blockchain analytics dashboard for tracking Dynex DHIP v2 (0xDNX) token holder distribution on Ethereum.
